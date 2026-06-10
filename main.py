@@ -7,7 +7,7 @@ from aiogram.filters import CommandStart
 from yt_dlp import YoutubeDL
 
 # Bot tokenini shu yerga yozing
-TOKEN =“8236929425:AAFe9IETti_K4-9HzWX9mOBACOBljw306Qk”
+TOKEN ="8236929425:AAFe9IETti_K4-9HzWX9mOBACOBljw306Qk"
 # Loglarni sozlash (Xatoliklarni ko'rib turish uchun)
 logging.basicConfig(level=logging.INFO)
 
